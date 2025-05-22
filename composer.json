@@ -1,0 +1,15 @@
+{
+    "name": "liar/liar-test",
+    "authors": [
+        {
+            "name": "Vladimir Kipriyanov",
+            "email": "liar2707@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "require": {}
+}
